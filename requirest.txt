@@ -1,0 +1,11 @@
+1. Версія Python:
+  3.10.7
+  Щоб дізнатися свою версію Python:
+    python3 --version  АБО  python --version
+2. Інструкція по запуску
+  python my1.py
+3. Інструкція по запуску тесту.
+  python -m unittest test.py
+4. Інструкція по тестуваннюю pylint.
+  pip install pylint
+  pylint my1.py
